@@ -8,4 +8,5 @@ and semantically similar to those real websites. As technology
 continues to grow, phishing techniques started to progress rapidly
 and this needs to be prevented by using anti-phishing mechanisms
 to detect phishing. Machine learning is a powerful tool used to
-strive against phishing attacks
+strive against phishing attacks.
+In this dataset, shed light on the important features that have proved to be sound and effective in predicting phishing websites. In addition, we propose some new features.
